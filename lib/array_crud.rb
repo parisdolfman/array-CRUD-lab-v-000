@@ -29,7 +29,7 @@ end
 
 def retrieve_element_from_index(babies, index_number)
     babies = ["wow" "Draco", "Ashes", "Kingston"]
-    babies[]
+    babies[0]
 end
 
 def retrieve_first_element_from_array(array)
