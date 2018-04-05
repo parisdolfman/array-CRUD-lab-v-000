@@ -23,8 +23,8 @@ def remove_element_from_end_of_array(babies)
 end
 
 def remove_element_from_start_of_array(babies)
-  babies = ["arrays!"], "Draco", "Ashes", "Kingston"]
-  tristin = "arrays!"
+  babies = ["arrays!", "Draco", "Ashes", "Kingston"]
+  tristin = "arrays
   tristin = babies.shift
 end
 
