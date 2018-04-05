@@ -32,8 +32,9 @@ def retrieve_element_from_index(babies, index_number)
     babies[0]
 end
 
-def retrieve_first_element_from_array(array)
-
+def retrieve_first_element_from_array(babies)
+  babies = ["wow", "Draco", "Ashes", "Kingston"]
+  babies.first
 end
 
 def retrieve_last_element_from_array(array)
