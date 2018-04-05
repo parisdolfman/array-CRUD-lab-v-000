@@ -29,7 +29,7 @@ def remove_element_from_start_of_array(babies)
 end
 
 def retrieve_element_from_index(babies, index_number)
-    babies = ["arrays!" "Draco", "Ashes", "Kingston"]
+    babies = ["wow" "Draco", "Ashes", "Kingston"]
     babies[]
 end
 
