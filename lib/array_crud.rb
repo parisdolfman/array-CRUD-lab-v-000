@@ -23,8 +23,8 @@ def remove_element_from_end_of_array(babies)
 end
 
 def remove_element_from_start_of_array(babies)
-  babies = ["arrays!", "Draco", "Ashes", "Kingston"]
-  arrays = babies.shift
+  babies = ["wow", "Draco", "Ashes", "Kingston"]
+  wow = babies.shift
 end
 
 def retrieve_element_from_index(babies, index_number)
