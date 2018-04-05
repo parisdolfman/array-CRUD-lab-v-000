@@ -24,8 +24,7 @@ end
 
 def remove_element_from_start_of_array(babies)
   babies = ["arrays!", "Draco", "Ashes", "Kingston"]
-  tristin = "arrays
-  tristin = babies.shift
+  arrays = babies.shift
 end
 
 def retrieve_element_from_index(babies, index_number)
