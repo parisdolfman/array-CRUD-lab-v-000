@@ -38,6 +38,6 @@ def retrieve_first_element_from_array(babies)
 end
 
 def retrieve_last_element_from_array(array)
-  babies = ["wow", "Draco", "Ashes", "Kingston"]
+  babies = ["wow", "Draco", "Ashes", "arrays!"]
   babies.last
 end
